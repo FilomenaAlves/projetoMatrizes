@@ -13,7 +13,7 @@ de reduzir um processo exponencial em n para O(n3).
 
 A execução dos programas em Java e feita através da JVM, que precisa estar previamente instalada.
 Para que o programa possa ser compilado é necessário instalação do JDK. A forma mais prática
-é a instalação de um IDE. Recomendamos o Netbeans IDE que já é instalado juntamente com o JDk.
+é a instalação de um IDE. Recomendamos o Netbeans IDE que já é instalado juntamente com o JDK.
 
 
 - [Java 6 ou versões posteriores] (http://java.com/pt_BR/)
@@ -21,9 +21,10 @@ Para que o programa possa ser compilado é necessário instalação do JDK. A fo
 
 ## Arquivos
 
+Na pasta src estão os pacotes do projeto.
 - No pacote Classes: Matriz. java;
-- No pacote Janelas: JPrincipal.java e JPrincipal.form
-Onde, Matriz.java é a classe que contém os atributos e métodos necessários necessário para obter os custos para a multiplicação de cadeia de matrizes;
+- No pacote Janelas: JPrincipal.java e JPrincipal.form, 
+onde Matriz.java é a classe que contém os atributos e métodos necessários necessário para obter os custos para a multiplicação de cadeia de matrizes;
 JPrincipal.java é a classe que cria a interface gráfica para entrada e saida de dados;
 JPrincipal.form é um arquivo de auxilar.xml para o Netbeans IDE.
 
