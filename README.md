@@ -36,7 +36,7 @@ No Netbenas, vá no menu Arquivos/Novo Projeto. Selecione a opção Java/Aplica�
 Na estrutura de diretórios, procure a pasta src. Copie pra dentro desta pasta os pacotes que estão nesse repositóio.
 Para compilar o projeto, vá no menu Executar/Limpar e Construir Projeto. O Netbeans IDE vai gerar os bytecodes a partir
 dos arquivos .java que estão nos pacotes.
-Para executar o projeto, na estrutura de diretóios, procure a pasta dist. Nesta pasta esttá o arquivo executável .jar.
+Para executar o projeto, na estrutura de diretóios, procure a pasta dist. Nesta pasta está o arquivo executável .jar.
 
 
 
