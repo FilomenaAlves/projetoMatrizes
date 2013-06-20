@@ -1,4 +1,3 @@
-
 ## Programação Dinâmica
 
 Encontram-se neste repositório todos os arquivos referentes a implementação de métodos que utilizam
@@ -47,7 +46,7 @@ Para que o programa possa ser compilado è necessàrio instalação do JDK. A fo
 - No pacote Janelas: JPrincipal.java e JPrincipal.form
 
 Onde, Matriz.java é a classe que contém os atributos e métodos necessários para obter os custos para a multiplicaçãoo de cadeia de matrizes;
-JPrincipal.java é a classe que cria a interface gr�fica para entrada e saida de dados;
+JPrincipal.java é a classe que cria a interface gráfica para entrada e saida de dados;
 JPrincipal.form e um arquivo auxilar .xml para o Netbeans IDE.
 
 ## Instruções de compilação e execução
