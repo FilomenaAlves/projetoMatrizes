@@ -12,7 +12,7 @@ de reduzir um processo exponencial em n para O(n3).
 
 A execução dos programas em Java e feita através da JVM, que precisa estar previamente instalada.
 Para que o programa possa ser compilado é necessário a instalação do JDK. A forma mais prática
-é a instalação de um IDE. Recomendamos o Netbeans IDE que já é instalado juntamente com o JDk.
+é a instalação de um IDE. Recomendamos o Netbeans IDE que já é instalado juntamente com o JDK.
 
 
 - [Java 6 ou versões posteriores] (http://java.com/pt_BR/)
@@ -31,9 +31,9 @@ JPrincipal.form e um arquivo auxilar .xml para o Netbeans IDE.
 ## Instruções de compilação e execução
 
 Primeiramente, caso não tenha a JVM instalada, baixe e instale.
-Baixe e instale o netbeans IDE.
-No Netbenas, vá no menu Arquivos/Novo Projeto. Selecione a opção Java/Aplicação Java. Vai ser criado um projeto padrão JSE.
-Na estrutura de diretórios, procure a pasta src. Copie pra dentro desta pasta os pacotes que estão nesse repositóio.
+Baixe e instale o Netbeans IDE.
+No Netbeans, vá no menu Arquivos/Novo Projeto. Selecione a opção Java/Aplicação Java. Vai ser criado um projeto padrão JSE.
+Na estrutura de diretórios, procure a pasta src. Copie pra dentro desta pasta os pacotes que estão nesse repositório.
 Para compilar o projeto, vá no menu Executar/Limpar e Construir Projeto. O Netbeans IDE vai gerar os bytecodes a partir
 dos arquivos .java que estão nos pacotes.
 Para executar o projeto, na estrutura de diretóios, procure a pasta dist. Nesta pasta está o arquivo executável .jar.
