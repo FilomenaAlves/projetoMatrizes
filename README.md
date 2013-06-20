@@ -3,7 +3,7 @@
 
 Este repositório foi criado com o intuito de disponibilizar as implementações dos algoritmos Recursive-Matrix-Chain e Matrix-Chain-Order  em JAVA.
 
-Encontram-se aqui todos os arquivos referentes a implementa��o de Matrix-Chain-Order que utiliza a programa��o din�mica para fornecer o custo m�nimo de multiplica��o de cadeias de matrizes, e posteriormente a melhor parentiza��o para a multiplica��o.E a implementação de Recursive-Matrix-Chain que por ser recursivo  demananda maior custo para obten��o dos resultados.
+Encontram-se aqui todos os arquivos referentes a implementa��o de Matrix-Chain-Order que utiliza a programação dinâmica para fornecer o custo mínimo de multiplicaçõo de cadeias de matrizes, e posteriormente a melhor parentizaç�o para a multiplica��o.E a implementação de Recursive-Matrix-Chain que por ser recursivo  demananda maior custo para obten��o dos resultados.
 
 A finalidade  � demonstrar atrav�s dessas implementa��es que a programa��o din�mica � capaz
 de reduzir um processo exponencial em n para O(n3).
