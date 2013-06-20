@@ -1,24 +1,3 @@
-## Programação Dinâmica
-
-Encontram-se neste repositório todos os arquivos referentes a implementação de métodos que utilizam
-a programação dinâmica para fornecer o custo mínimo de multiplicão de cadeias de matrizes, e posteriormente a 
-melhor parentização para a multiplicação.
-
-Também foram implementados métodos recursivos que demanandam maior custo para obtenção dos resultados.
-
-A finalidade do projeto é demonstrar através dessas implementações que a programação dinâmica é capaz
-de reduzir um processo exponencial em n para O(n3).
-
-## Requisitos para execução
-
-A execução dos programas em Java e feita através da JVM, que precisa estar previamente instalada.
-Para que o programa possa ser compilado é necessário instalaçãoo do JDK. A forma mais prática
-é a instalação de um IDE. Recomendamos o Netbeans IDE que já vem tem o JDK.
-
-
-- [Java 6 ou versões posteriores] (http://java.com/pt_BR/)
-- [Netbenas IDE versão 7.3.1] (http://netbean.org)
-
 ## Multiplicação de Cadeia de Matrizes
 
 Este repositório foi criado com o intuito de disponibilizar as implementações dos algoritmos Recursive-Matrix-Chain e Matrix-Chain-Order  em JAVA.
@@ -32,8 +11,8 @@ de reduzir um processo exponencial em n para O(n3).
 ## Requisitos para execução
 
 A execução dos programas em Java e feita através da JVM, que precisa estar previamente instalada.
-Para que o programa possa ser compilado è necessàrio instalação do JDK. A forma mais pràtica
-é a instalaçãoo de um IDE. Recomendamos o Netbeans IDE que já é instalado juntamente com o JDk.
+Para que o programa possa ser compilado é necessário a instalação do JDK. A forma mais prática
+é a instalação de um IDE. Recomendamos o Netbeans IDE que já é instalado juntamente com o JDk.
 
 
 - [Java 6 ou versões posteriores] (http://java.com/pt_BR/)
@@ -45,7 +24,7 @@ Para que o programa possa ser compilado è necessàrio instalação do JDK. A fo
 - No pacote Classes: Matriz. java;
 - No pacote Janelas: JPrincipal.java e JPrincipal.form
 
-Onde, Matriz.java é a classe que contém os atributos e métodos necessários para obter os custos para a multiplicaçãoo de cadeia de matrizes;
+Onde, Matriz.java é a classe que contém os atributos e métodos necessários para obter os custos para a multiplicação de cadeia de matrizes;
 JPrincipal.java é a classe que cria a interface gráfica para entrada e saida de dados;
 JPrincipal.form e um arquivo auxilar .xml para o Netbeans IDE.
 
